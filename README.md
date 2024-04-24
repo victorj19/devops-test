@@ -22,4 +22,12 @@ Capturas de pantalla:
 Adjunta capturas de pantalla relevantes para cada paso del proceso.
 
 
-![imagen](https://github.com/victorj19/devops-test/blob/8df6f513346979ba7acac273a74407523c354919/actions.JPG)
+![imagen1](https://github.com/victorj19/devops-test/blob/8df6f513346979ba7acac273a74407523c354919/webstatic.JPG)
+![imagen2](https://github.com/victorj19/devops-test/blob/8df6f513346979ba7acac273a74407523c354919/static.JPG)
+![imagen3](https://github.com/victorj19/devops-test/blob/8df6f513346979ba7acac273a74407523c354919/secrets.JPG)
+![imagen4](https://github.com/victorj19/devops-test/blob/8df6f513346979ba7acac273a74407523c354919/actions.JPG)
+![imagen5](https://github.com/victorj19/devops-test/blob/8df6f513346979ba7acac273a74407523c354919/actions2.JPG)
+![imagen6]()
+![imagen7](https://github.com/victorj19/devops-test/blob/8df6f513346979ba7acac273a74407523c354919/push.JPG)
+![imagen8](https://github.com/victorj19/devops-test/blob/8df6f513346979ba7acac273a74407523c354919/review.JPG)
+![imagen9](https://github.com/victorj19/devops-test/blob/8df6f513346979ba7acac273a74407523c354919/web.JPG)
