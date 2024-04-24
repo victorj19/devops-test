@@ -20,3 +20,6 @@ Pasos para completar la lección:
 
 Capturas de pantalla:
 Adjunta capturas de pantalla relevantes para cada paso del proceso.
+
+
+![imagen](https://github.com/victorj19/devops-test/blob/8df6f513346979ba7acac273a74407523c354919/actions.JPG)
