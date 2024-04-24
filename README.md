@@ -32,3 +32,4 @@ Attach relevant screenshots for each step of the process.
 ![imagen8](https://github.com/victorj19/devops-test/blob/8df6f513346979ba7acac273a74407523c354919/review.JPG)
 
 ![imagen9](https://github.com/victorj19/devops-test/blob/8df6f513346979ba7acac273a74407523c354919/web.JPG)
+
