@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# devops-test
-=======
-Hola mundo!
->>>>>>> ee43dd0a1c7f6e6988dd96c6e1a5b1b73c481861
-=======
 Implementing a Simple Personal Website in Azure with GitHub This repository contains the detailed steps for implementing a simple personal website in Azure using Azure Static Web Apps and GitHub. The goal is to have a basic website online, hosted in Azure, with a private repository on GitHub and clear documentation of the steps taken.
 
 1. Create an Azure Web App:
@@ -39,4 +32,4 @@ Attach relevant screenshots for each step of the process.
 ![imagen8](https://github.com/victorj19/devops-test/blob/8df6f513346979ba7acac273a74407523c354919/review.JPG)
 
 ![imagen9](https://github.com/victorj19/devops-test/blob/8df6f513346979ba7acac273a74407523c354919/web.JPG)
->>>>>>> 519e4956bb32f0922060d8342b749e85a9248a3a
+
